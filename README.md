@@ -39,4 +39,4 @@ This project consists of a comprehensive three-tier application, comprising a Ba
 * **Portability:** The application is portable, as all dependencies and configurations are encapsulated within containers.
 * **Simplified Development and Deployment:** Docker Compose simplifies development and deployment workflows, making it easy to manage the entire application stack.
 
-If you'd like me to elaborate on any of these points or provide further assistance, please let me know!
+
